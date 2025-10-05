@@ -1,16 +1,55 @@
-# hello_world
+Nama: Indi Warda Ramadhani
+<br>NIM: 2341760026
+<br>Kelas: SIB 3D
+<br>Mata Kuliah: Pemrograman Mobile
 
-A new Flutter project.
+Praktikum 1: Membuat Project Flutter Baru
+<br> 1. Buka VS Code, tekan Ctrl + Shift + P, ketik Flutter, lalu pilih New Application Project.
 
-## Getting Started
+![Screenshot hello_world](images/01.png)
 
-This project is a starting point for a Flutter application.
+<br> 2. Buat pada folder Pemograman Mobile, lalu pilih Select a folder to create the project in.
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot hello_world](images/02.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<br> 3. Ketik nama project hello_world, tekan Enter, lalu tunggu hingga proses selesai.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot hello_world](images/03.png)
+
+<br> 4. Jika proses selesai, akan muncul pesan **'Your Flutter Project is ready!'** sebagai tanda project baru berhasil dibuat.
+
+![Screenshot hello_world](images/04.png)
+
+Praktikum 2: Menghubungkan Perangkat Android atau Emulator
+Melanjutkan dari praktikum 1, Anda diminta untuk menjalankan aplikasi ke perangkat fisik (device Android atau iOS). Silakan ikuti langkah-langkah pada codelab tautan berikut ini.
+
+https://developer.android.com/codelabs/basic-android-kotlin-compose-connect-device?hl=id#0
+
+Praktikum 3: Membuat Repository GitHub dan Laporan Praktikum
+
+1. Buat repository baru dengan nama "flutter-fundamental-part1
+![Screenshot hello_world](images/05.png)
+2. Klik tombol Create repository , lalu akan muncul tampilan seperti gambar berikut.
+![Screenshot hello_world](images/06.png)
+3. Kembali ke VS Code pada project hello_world, buka Terminal > New Terminal, lalu ketik perintah untuk inisialisasi git.
+![Screenshot hello_world](images/07.png)
+4. Beri pesan commit "tambah gitignore" lalu klik Commit (✔)
+<br>![Screenshot hello_world](images/08.png)
+5. Lakukan push dengan klik bagian menu titik tiga > Push
+<br>![Screenshot hello_world](images/09.png)
+6. Salin tautan repository Anda dari browser ke bagian ini, lalu klik Add remote
+<br>![Screenshot hello_world](images/10.png)
+8. Setelah berhasil, tulis remote name dengan "origin"
+<br>![Screenshot hello_world](images/11.png)
+9. Commit juga pada README
+<br>![Screenshot hello_world](images/12.png)
+10. Setelah itu berhasil tampil kedua file yang di push
+<br>![Screenshot hello_world](images/13.png)
+11. Lakukan push juga untuk semua file lainnya dengan pilih Stage All Changes. Beri pesan commit "project hello_world". Maka akan tampil di repository GitHub seperti berikut.
+<br>![Screenshot hello_world](images/14.png)
+<br>![Screenshot hello_world](images/15.png)
+12. Kembali ke VS Code, ubah platform di pojok kanan bawah ke emulator atau device atau bisa juga menggunakan browser Chrome. Lalu coba running project hello_world dengan tekan F5 atau Run > Start Debugging. Tunggu proses kompilasi hingga selesai, maka aplikasi flutter pertama akan tampil seperti berikut.
+<br>![Screenshot hello_world](images/16.png)
+13. Silakan screenshot seperti pada Langkah 11, namun teks yang ditampilkan dalam aplikasi berupa nama lengkap Anda. Simpan file screenshot dengan nama 01.png pada folder images (buat folder baru jika belum ada) di project hello_world Anda. Lalu ubah isi README.md seperti berikut, sehingga tampil hasil screenshot pada file README.md. Kemudian push ke repository. 
+<br>![Screenshot hello_world](images/17.png)
+<br>![Screenshot hello_world](images/18.png)
